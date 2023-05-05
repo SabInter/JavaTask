@@ -6,10 +6,10 @@ class Task1Test {
 
     @Test
     void personFiltering() {
-        //1. Find Persons older 18 (included)
-        //2. Order by Age
-        //3. collect to List of Person first name
-        //4. Print the list
+        // 1. Find Persons older 18 (included)
+        // 2. Order by Age ascending
+        // 3. Collect to List of Person first name
+        // 4. Print the list
         List<Person> personList =
             List.of(
                     new Person("John", "Smith", 34),

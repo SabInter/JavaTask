@@ -1,12 +1,10 @@
 import org.junit.jupiter.api.Test;
 
-import java.util.List;
-
 class Task2Test {
 
     @Test
     void wordCounts() {
-        // Count how many times word appears in the text
+        // Count how many times each word appears in the text
         // Case is not important
         // Print the result
 
